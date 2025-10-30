@@ -4,6 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/one.png" width="200" alt="Home Page">
+  <img src="assets/screenshots/two.png" width="200" alt="Bouquet Page">
+  <img src="assets/screenshots/three.png" width="200" alt="Room Page">
+  <img src="assets/screenshots/five.png" width="200" alt="Room Page">
+  <img src="assets/screenshots/six.png" width="200" alt="Room Page">
+  <img src="assets/screenshots/seven.png" width="200" alt="Room Page">
+</div>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
