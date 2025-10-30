@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started 
 
    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/screenshots/one.png" width="400" alt="Home Page">
