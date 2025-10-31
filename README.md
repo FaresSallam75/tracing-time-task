@@ -50,31 +50,20 @@ The project follows **Clean Architecture** and **Cubit State Management** princi
 
 ---
 
-## ⚙️ Tech Stack
+  ## ⚙️ Tech Stack
 
-| Category | Technology |
-|-----------|-------------|
-| Framework | Flutter |
-| Language | Dart |
-| State Management | Cubit / BLoC |
-| Database | Firebase Firestore |
-| Local Storage | Hive |
-| File Upload | Firebase Storage + File Picker |
-| Architecture | Clean Architecture |
-| UI Support | Responsive (Mobile, Tablet, Desktop) |
-
-
-
+  | Category | Technology |
+  |-----------|-------------|
+  | Framework | Flutter |
+  | Language | Dart |
+  | State Management | Cubit / BLoC |
+  | Database | Firebase Firestore |
+  | Local Storage | Hive |
+  | File Upload | Firebase Storage + File Picker |
+  | Architecture | Clean Architecture |
+  | UI Support | Responsive (Mobile, Tablet, Desktop) |
+  
 
 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
