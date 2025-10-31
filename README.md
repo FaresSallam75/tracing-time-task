@@ -1,21 +1,8 @@
-   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/screenshots/one.png" width="400" alt="Home Page">
-  <img src="assets/screenshots/two.png" width="400" alt="Bouquet Page">
-  <img src="assets/screenshots/three.png" width="400" alt="Room Page">
-  <img src="assets/screenshots/five.png" width="400" alt="Room Page">
-  <img src="assets/screenshots/six.png" width="400" alt="Room Page">
-  <img src="assets/screenshots/seven.png" width="400" alt="Room Page">
-</div>
 
+  # 🕒 Tracing Time
 
-
-# 🕒 Tracing Time
-
-  
-
-
-**Tracing Time** هو تطبيق Flutter احترافي لإدارة وتتبع طلبات الإجازات (Leave Requests) داخل بيئة العمل.  
-يتيح للمستخدمين إنشاء طلبات إجازة، رفع المرفقات، وتتبع حالة الموافقات — مع دعم **الوضع الليلي** و**التصميم المتجاوب** لجميع الشاشات (Mobile, Tablet, Desktop, Web).
+**Tracing Time** is a professional Flutter application designed for managing and tracking employee leave requests.  
+It allows users to create requests, upload attachments, and track approval statuses — with full **Dark/Light mode** support and **responsive design** for all devices (Mobile, Tablet, Desktop, and Web).
 
 ---
 
@@ -23,27 +10,59 @@
 
 - 🌗 **Light & Dark Theme**
 - 💼 **Request Management System**
-  - إنشاء طلبات جديدة (Vacation, Sick, Remote Work)
-  - رفع مرفقات بصور أو ملفات (Firebase Storage)
-  - تتبع الحالة (Approved / Pending / Rejected)
-- 🧠 **State Management using Cubit (BLoC)**
+  - Create new requests (Vacation, Sick, Remote Work, etc.)
+  - Upload attachments (images/files) via Firebase Storage
+  - Track request status (Approved / Pending / Rejected)
+- 🧠 **State Management with Cubit (BLoC)**
 - 🔥 **Firebase Integration**
-  - Firestore (لتخزين البيانات)
-  - Firebase Storage (لتخزين الصور)
+  - Firestore for data storage
+  - Firebase Storage for image uploads
 - 💾 **Local Storage using Hive**
 - 📱 **Fully Responsive Design**
-  - يدعم الهاتف، التابلت، والويب.
+  - Supports Mobile, Tablet, Desktop, and Web layouts
 - ✅ **Form Validation**
-  - لجميع الحقول (Dropdowns, TextFields, DatePickers)
+  - Required fields, format validation, and error messages
 - ☁️ **File Upload System**
-  - عبر FilePicker أو ImagePicker
-- 🌍 **Internationalization Ready** (جاهز لدعم لغات متعددة)
+  - FilePicker and ImagePicker support
+- 🌍 **Internationalization Ready**
+  - Ready for multi-language support
 
 ---
 
 ## 🧩 Project Architecture
 
-تم تصميم المشروع باستخدام **Clean Architecture + Cubit Pattern**
+The project follows **Clean Architecture** and **Cubit State Management** principles.
+
+
+--- 
+
+## 🧩 Screenshots
+
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/one.png" width="400" alt="Home Page">
+  <img src="assets/screenshots/two.png" width="400" alt="Bouquet Page">
+  <img src="assets/screenshots/three.png" width="400" alt="Room Page">
+  <img src="assets/screenshots/five.png" width="400" alt="Room Page">
+  <img src="assets/screenshots/six.png" width="400" alt="Room Page">
+  <img src="assets/screenshots/seven.png" width="400" alt="Room Page">
+  </div>
+
+
+---
+
+## ⚙️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| Framework | Flutter |
+| Language | Dart |
+| State Management | Cubit / BLoC |
+| Database | Firebase Firestore |
+| Local Storage | Hive |
+| File Upload | Firebase Storage + File Picker |
+| Architecture | Clean Architecture |
+| UI Support | Responsive (Mobile, Tablet, Desktop) |
+
 
 
 
